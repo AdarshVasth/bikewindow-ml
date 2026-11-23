@@ -1,0 +1,11 @@
+{
+  "train_rows": 438,
+  "calibration_rows": 146,
+  "test_rows": 146,
+  "mae": 11.979407882464969,
+  "weekday_baseline_mae": 33.86613674782035,
+  "nominal_coverage": 0.9,
+  "test_coverage": 0.9657534246575342,
+  "mean_interval_width": 70.84931506849315,
+  "calibration_radius": 34.94462436329306
+}
